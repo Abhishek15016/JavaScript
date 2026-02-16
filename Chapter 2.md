@@ -230,7 +230,11 @@ Execution Context deleted again
 | square2  | 4     |
 | square4  | 16    |
 
-<img width="1063" height="532" alt="image" src="https://github.com/user-attachments/assets/3ae38708-fff3-4f61-8c48-c5ceefda8016" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/39c8395e-00f6-4666-86a5-f62e71613686" width="45%" />
+  <img src="https://github.com/user-attachments/assets/f9a4e9e4-972e-482c-8b9e-b595ad3f3213" width="35%" />
+</p>
+
 
 ---
 
