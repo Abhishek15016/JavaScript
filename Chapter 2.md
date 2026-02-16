@@ -2,11 +2,6 @@
 
 *(Namaste JavaScript – Behind the Scenes of JS Engine)*
 
-![Image](https://media.licdn.com/dms/image/v2/D4E12AQEojyVOipOL1w/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1707323060304?e=2147483647\&t=L7hbfEut17y5ucTWs9WOLFPz9MlYxSR8mE_6iOXAavY\&v=beta)
-
-![Image](https://miro.medium.com/v2/resize%3Afit%3A1400/1%2ACuL8xsqLb1GhpuHgmDKk0A.png)
-
-![Image](https://media.licdn.com/dms/image/v2/D5612AQGLiPuwCz7lHQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1697821748372?e=2147483647\&t=ZpwgzrPzsrTv8A7F5DgXnTSGTp2J5pmY2YhCTq6JMuM\&v=beta)
 
 ![Image](https://binovarghese.com/img/2022/execution-context-1.jpg)
 
@@ -245,10 +240,6 @@ Execution Context deleted again
 ---
 
 ## 🧱 Call Stack Explained
-
-![Image](https://felixgerschau.com/static/79486d91b22a7c1b4044fce88a4cae20/5a190/js-event-loop-explained.png)
-
-![Image](https://miro.medium.com/v2/resize%3Afit%3A1400/1%2ArJ2Gwch8CiATB_4MJzm-6g.png)
 
 ![Image](https://blog.openreplay.com/images/explaining-javascript-s-execution-context-and-stack/images/mFQtgsb.png)
 
